@@ -1,6 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 <h1 align="center">Hi 👋, I'm Elijah Ndenwa</h1>
-<h3 align="center">I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.</h3>
+<h3 align="center">MERN Stack Software Developer, React Native Mobile App Developer, and Technical Writer.
+
+💻 Specializing in the MERN Stack, I excel in crafting powerful and scalable web applications using MongoDB, Express.js, React.js, and Node.js. My focus is on delivering seamless user experiences and implementing efficient server-side logic.
+
+📱 As a React Native Mobile App Developer, I extend my skills to create cross-platform mobile applications. I thrive on building innovative and user-friendly solutions that provide a native-like experience on both iOS and Android devices.
+
+✍️ Beyond coding, I am a dedicated Technical Writer, leveraging my communication skills to explain complex technical concepts clearly. I contribute to documentation, tutorials, and articles that empower the tech community to enhance their skills.
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elinez19&label=Profile%20views&color=0e75b6&style=flat" alt="elinez19" /> </p>
@@ -13,7 +21,7 @@
 
 - 🌱 I’m currently learning **🌱 I’m currently learning DevOps**
 
-- 💬 Ask me about **MERN,NEXT.JS,REACT NATIVE, FLUTTER**
+- 💬 Ask me about **MERN,NEXT.JS, REACT NATIVE, FLUTTER**
 
 - 📫 How to reach me **elijahndenwa19@gmail.com**
 
