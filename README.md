@@ -9,13 +9,7 @@
 ✍️ Beyond coding, I am a dedicated Technical Writer, leveraging my communication skills to explain complex technical concepts clearly. I contribute to documentation, tutorials, and articles that empower the tech community to enhance their skills.
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elinez19&label=Profile%20views&color=0e75b6&style=flat" alt="elinez19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elinez19" alt="elinez19" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/elijahndenwa" target="blank"><img src="https://img.shields.io/twitter/follow/elijahndenwa?logo=twitter&style=for-the-badge" alt="elijahndenwa" /></a> </p>
 
 - 🔭 I’m currently working on [Tasksify Full Stack Web App](tasksify.com)
 
