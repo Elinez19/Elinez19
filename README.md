@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0ea5e9&height=200&section=header&text=Elijah%20Ndenwa&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=55&descAlign=center" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:CD853F,100:D2691E&height=200&section=header&text=Elijah%20Ndenwa&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=55&descAlign=center" alt="Header" />
 </div>
 
 <div align="center">
   <h2>🌐 Connect With Me</h2>
   <p align="center">
-    <a href="http://webdevmastery.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <a href="http://anorateck.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-8B4513?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/in/ndenwaelijah/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.x.com/ElijahNdenwa" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      <img src="https://img.shields.io/badge/Twitter-8B4513?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://github.com/Elinez19" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:elijah@webdevmastery.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:elijah@anorateck.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -42,7 +42,7 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
 - 🎯 **User Experience**: Crafting interfaces that users love to interact with
 - 📈 **Business Impact**: Aligning technical solutions with organizational goals
 
-[Visit my website](http://webdevmastery.com) to learn more about my work and services!
+[Visit my website](http://anorateck.com) to learn more about my work and services!
 
 ---
 
@@ -67,8 +67,8 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
         A full-stack educational platform featuring course management, student tracking, and interactive learning modules. Built with modern technologies for optimal performance and user experience.
       </p>
       <p align="center">
-        <a href="http://webdevmastery.com" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Site-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site" />
+        <a href="http://anorateck.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Site-8B4513?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site" />
         </a>
       </p>
     </td>
@@ -86,7 +86,7 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
       </p>
       <p align="center">
         <a href="https://github.com/Elinez19" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+          <img src="https://img.shields.io/badge/📂_Repository-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
         </a>
       </p>
     </td>
@@ -105,7 +105,7 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
       </p>
       <p align="center">
         <a href="https://github.com/Elinez19" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+          <img src="https://img.shields.io/badge/📂_Repository-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
         </a>
       </p>
     </td>
@@ -122,7 +122,7 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
       </p>
       <p align="center">
         <a href="https://github.com/Elinez19" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+          <img src="https://img.shields.io/badge/📂_Repository-8B4513?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
         </a>
       </p>
     </td>
@@ -180,15 +180,15 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elinez19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elinez19&stroke=ffffff&background=1c1917&ring=8B4513&fire=8B4513&currStreakNum=ffffff&currStreakLabel=8B4513&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Elinez19&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Elinez19&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917&title_color=8B4513&icon_color=8B4513&text_color=ffffff" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elinez19&theme=react-dark&hide_border=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff" alt="GitHub Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elinez19&theme=react-dark&hide_border=true&bg_color=1c1917&color=ffffff&line=8B4513&point=ffffff" alt="GitHub Activity Graph" />
       </td>
     </tr>
   </table>
@@ -203,17 +203,17 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
   <p>I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology.</p>
   
   <p align="center">
-    <a href="http://webdevmastery.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <a href="http://anorateck.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-8B4513?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/in/ndenwaelijah/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.x.com/ElijahNdenwa" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      <img src="https://img.shields.io/badge/Twitter-8B4513?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="mailto:elijah@webdevmastery.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:elijah@anorateck.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-8B4513?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -221,9 +221,9 @@ I'm a results-driven software engineer based in Nigeria, specializing in modern 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0ea5e9&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:CD853F,100:D2691E&height=100&section=footer" alt="Footer" />
   
   <p><em>Thanks for visiting! Feel free to explore my repositories and reach out for collaboration opportunities.</em></p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Elinez19&color=0891b2&style=for-the-badge&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Elinez19&color=8B4513&style=for-the-badge&label=Profile+Views)
 </div>
