@@ -1,106 +1,229 @@
-# Hi there, I'm Elijah Ndenwa 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0ea5e9&height=200&section=header&text=Elijah%20Ndenwa&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=55&descAlign=center" alt="Header" />
+</div>
+
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  <p align="center">
+    <a href="http://webdevmastery.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/ndenwaelijah/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.x.com/ElijahNdenwa" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://github.com/Elinez19" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:elijah@webdevmastery.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="30" height="30">
 </div>
 
-## 🚀 Software Engineer & Full-Stack Developer
+> **MERN Stack Software Engineer** | Passionate about transforming ideas into impactful digital solutions
 
-Passionate software engineer specializing in modern web development with a focus on creating exceptional user experiences. I transform complex business requirements into scalable, user-centric applications that drive real impact.
+I'm a results-driven software engineer based in Nigeria, specializing in modern web development with React, Next.js, and full-stack solutions. I help businesses create intuitive, customer-centric applications that elevate their digital presence and drive real business impact.
 
-### 💼 Professional Focus
+**Key Focus Areas:**
 
-- **Frontend Development**: React, Next.js, and modern JavaScript frameworks
-- **Backend Integration**: Database design, API development, and system architecture
-- **User Experience**: Crafting intuitive interfaces that users love
-- **Business Impact**: Aligning technical solutions with organizational goals
+- 🎨 **Frontend Development**: React, Next.js, and modern JavaScript frameworks
+- ⚙️ **Backend Integration**: Database design, API development, and system architecture
+- 🎯 **User Experience**: Crafting interfaces that users love to interact with
+- 📈 **Business Impact**: Aligning technical solutions with organizational goals
 
-## 📍 Location & Contact
+[Visit my website](http://webdevmastery.com) to learn more about my work and services!
 
-- 🌍 **Based in**: Nigeria
-- 🖥️ **Portfolio**: [webdevmastery.com](http://webdevmastery.com)
-- 📧 **Contact**: [LinkedIn](https://www.linkedin.com/in/ndenwaelijah/) | [Twitter](https://www.x.com/ElijahNdenwa)
+---
 
-## 🎯 Current Focus
+## 🎯 Featured Projects
 
-- 🚀 **Active Project**: [WebDev Mastery Platform](http://webdevmastery.com) - Comprehensive learning platform for web development
-- 🧠 **Learning**: Advanced PostgreSQL optimization and database architecture
-- 🤝 **Open to Collaboration**: Learning Management Systems, E-commerce platforms, and SaaS applications
+<div align="center">
+  <h3>🚀 Recent Work</h3>
+</div>
 
-## 🛠️ Technical Skills
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 WebDev Mastery Platform</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </div>
+      <p align="center">
+        <strong>Comprehensive Learning Management Platform</strong><br/>
+        A full-stack educational platform featuring course management, student tracking, and interactive learning modules. Built with modern technologies for optimal performance and user experience.
+      </p>
+      <p align="center">
+        <a href="http://webdevmastery.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Site-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏢 E-Commerce Dashboard</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+      </div>
+      <p align="center">
+        <strong>Advanced Business Analytics Dashboard</strong><br/>
+        Multi-purpose dashboard with real-time analytics, user management, and comprehensive reporting. Features include graphical data visualization, order tracking, and automated notifications.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Elinez19" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 Mobile Delivery App</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+      </div>
+      <p align="center">
+        <strong>Real-time Delivery Tracking System</strong><br/>
+        Mobile application for seamless delivery management with live tracking, push notifications, and integrated payment processing. Built for both iOS and Android platforms.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Elinez19" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 UI Component Library</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+      </div>
+      <p align="center">
+        <strong>Reusable Design System</strong><br/>
+        Comprehensive component library with TypeScript support, Storybook documentation, and automated testing. Designed for consistency and developer experience across projects.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Elinez19" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Repository-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+  <h3>💻 Tech Stack & Tools</h3>
+</div>
 
 ### Frontend Development
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Backend & Database
 
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </p>
 
-### Additional Technologies
+### Tools & Platforms
 
-- **Database**: Prisma ORM, PostgreSQL
-- **Styling**: Tailwind CSS, CSS3, Responsive Design
-- **Tools**: Git, VS Code, npm/yarn
-- **Methodologies**: Agile Development, Test-Driven Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <p>Let's connect and collaborate on innovative projects!</p>
-  
-  <p align="left">
-    <a href="https://www.linkedin.com/in/ndenwaelijah/" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-      </picture>
-    </a>
-    <a href="https://www.github.com/Elinez19" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-      </picture>
-    </a>
-    <a href="https://www.x.com/ElijahNdenwa" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-      </picture>
-    </a>
-  </p>
-</div>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elinez19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elinez19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Elinez19&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elinez19&theme=react-dark&hide_border=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌟 Connect
+
+<div align="center">
+  <h3>Let's Build Something Amazing Together!</h3>
+  <p>I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology.</p>
+  
+  <p align="center">
+    <a href="http://webdevmastery.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/ndenwaelijah/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.x.com/ElijahNdenwa" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:elijah@webdevmastery.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <p><em>Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0ea5e9&height=100&section=footer" alt="Footer" />
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Elinez19&color=blueviolet&style=flat-square&label=Profile+Views)
+  <p><em>Thanks for visiting! Feel free to explore my repositories and reach out for collaboration opportunities.</em></p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Elinez19&color=0891b2&style=for-the-badge&label=Profile+Views)
 </div>
